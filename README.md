@@ -9,5 +9,10 @@
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></span>
 <span><img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/MyBatis-000000?logo=springboot&logoColor=fff&style=for-the-badge"/></span>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
