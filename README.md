@@ -8,6 +8,6 @@
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></span>
-<span><img src=""/></span>
+<span><img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></span>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
