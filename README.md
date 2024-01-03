@@ -22,6 +22,7 @@
 <br/>
 <h2>DB설계도</h2>
 <img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/b2788906-2f84-4ee7-9b3c-291d4acdfb81"/>
+<h2>구현 화면</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
