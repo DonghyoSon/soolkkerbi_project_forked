@@ -14,5 +14,10 @@
 <span><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/MyBatis-000000?logo=mybatis&logoColor=fff&style=for-the-badge"/></span>
+<br/>
+<h2>개발 목표</h2>
+<li>고객들이 사용하기 원활한 전통주 판매 홈페이지 제작</li>
+<li>Front-End부터 Back-End까지 전반적인 기능 구현 경험 쌓기</li>
+<li>담당한 기능의 CRUD 구현</li>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
