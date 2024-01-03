@@ -19,5 +19,8 @@
 <li>고객들이 사용하기 원활한 전통주 판매 홈페이지 제작</li>
 <li>Front-End부터 Back-End까지 전반적인 기능 구현 경험 쌓기</li>
 <li>담당한 기능의 CRUD 구현</li>
+
+![image15](https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/b2788906-2f84-4ee7-9b3c-291d4acdfb81)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
