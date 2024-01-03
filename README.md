@@ -13,6 +13,6 @@
 <span><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/MyBatis-000000?logo=mybatis&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/MyBatis-000000&logoColor=fff&style=for-the-badge"/></span>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
