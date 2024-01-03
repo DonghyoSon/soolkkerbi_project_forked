@@ -21,7 +21,7 @@
 <li>담당한 기능의 CRUD 구현</li>
 <br/>
 <h2>DB설계도</h2>
-![image15](https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/b2788906-2f84-4ee7-9b3c-291d4acdfb81)
+<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/b2788906-2f84-4ee7-9b3c-291d4acdfb81"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
